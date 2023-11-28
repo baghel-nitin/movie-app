@@ -1,0 +1,18 @@
+body {
+  background-color: #171717;
+  padding-top: 90px;
+}
+
+.fixed-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9;
+  background: #171717;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  box-shadow: 0px 41px 36px #181818;
+  padding-left: 0;
+  padding-right: 0;
+}
